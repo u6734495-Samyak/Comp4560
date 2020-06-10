@@ -50,7 +50,11 @@ pip install tensorflow_docs
 
 * **Samyak Jain** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+### Contributors
+
+* Prateek Arora (u6742441)
+* Bhumipat Chatlekhavanich (u6069393)
+* Jia Ye (u5879731)
 
 ## License
 

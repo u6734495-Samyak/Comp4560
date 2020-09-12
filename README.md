@@ -6,7 +6,9 @@ A combination of lightweight, high specific strength, and good castability make 
 
 ## Getting Started
 
-u6734495_Comp4560.ipynb - contains the code in ipynb format and all the outputsfrom our code are shown in the file
+The u6734495-Samyak patch 1 contains the updated files while the master files does not contain the updated files.
+
+Mg_project.ipynb - contains the code in ipynb format and all the outputsfrom our code are shown in the file
 
 u6734495_Comp4560.py -  contains the code file in a .py format
 

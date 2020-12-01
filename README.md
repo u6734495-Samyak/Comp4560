@@ -6,14 +6,14 @@ A combination of lightweight, high specific strength, and good castability make 
 
 ## Getting Started
 
-u6734495_Comp4560.ipynb - contains the code in ipynb format and all the outputsfrom our code are shown in the file
+u6734495_Comp4560.ipynb - contains the code in ipynb format and all the outputs from our code are shown in the file
 
 u6734495_Comp4560.py -  contains the code file in a .py format
 
 The database for the project which was created from sctrach is present in Excel as well CSV format.
-(Contains data from MATWEB, CES material slection, research papers and journal articles)
+(Contains data from MATWEB, CES material selection, research papers and journal articles)
 
-matweb.py contains the code for scratching the data from MATWEB.
+matweb.py contains the code for scraping the data from MATWEB.
 
 ### Prerequisites
 
